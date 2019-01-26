@@ -1,3 +1,31 @@
+I want to build a decentralized application based on tg
+
+## Telegram messenger for TelegramSwift  by bcgame
+
+- 1: ADD WebGL Runtime
+- 2: Support  chat symmetric encryption by RSA、AES、DES、MD5 ...
+- 3：Add currency wallets
+ 
+The things we are focus right now is aiming to give more open business possibilities for telegram, 
+ 
+such as game or crypto dapp, and make it more safe.
+ 
+We hope more developers can join us
+ 
+
+
+
+-------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 This repo contains the official source code for [Telegram App for MacOS](https://macos.telegram.org).
 
